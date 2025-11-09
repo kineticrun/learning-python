@@ -22,6 +22,6 @@ prod = num_vector[0] * num_vector[1]
 div = num_vector[0] / num_vector[1]
 
 print("A két szám összege: " + str(sum_of_two))
-print("A két szám külömbsége: " + str(sub))
+print("A két szám különbség: " + str(sub))
 print("A két szám szorzata: " + str(prod))
 print("A két szám hányadosa: " + str(div))

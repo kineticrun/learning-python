@@ -1,7 +1,6 @@
 string = "Programozás"
 example_list = ["P", "y", "t", "h", "o", "n"]
 
-print(string.title())              # minden betű nagybetű
 print(string[:])                   # teljes másolat
 print(string[:2])                  # elejétől 2-ig (0–1 index)
 print(string[2:])                  # 2-es indextől a végéig

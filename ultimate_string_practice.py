@@ -1,7 +1,7 @@
 string = "Programozás"
 example_list = ["P", "y", "t", "h", "o", "n"]
 
-print(string[:])                   # teljes másolat
+print(string[:])                   # teljes másolat, de az igazi értelme pl listáknál jön elő ami mutable (a string immuatble)
 print(string[:2])                  # elejétől 2-ig (0–1 index)
 print(string[2:])                  # 2-es indextől a végéig
 print(string[1:4])                 # 1–4 index között (1,2,3)
